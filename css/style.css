@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#off {
+  width: 400px;
+  height: 195px;
+  margin-top: 200px;
+  margin-left: 500px;
+  border-color: white;
+}
+#off img {
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */

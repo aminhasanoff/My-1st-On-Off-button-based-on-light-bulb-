@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#off{
+    width: 400px;
+    height: 195px;
+    margin-top: 200px;
+    margin-left: 500px;
+    border-color: white;
+    // position: relative;
+    img{
+        width: 100%;
+    }
+}
+
+// #on{
+//     width: 400px;
+//     position: absolute;
+//     margin-top: 200px;
+//     margin-left: -400px;
+//     border-color: white;
+//     // display: none;
+//     .on{
+//         width: 100%;
+//     }
+// }
+
+// #on{
+//     display: none;
+//     margin-top: 200px;
+//     margin-left: -400px;
+// }
